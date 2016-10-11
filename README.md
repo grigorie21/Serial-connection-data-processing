@@ -1,4 +1,4 @@
-# hello-word
+# Project Nirvana
 
 Hello!
 My project "Nirvana" is а pogramm for reading the data from sensors. The sensor's data gives arduino via serial connection. 
